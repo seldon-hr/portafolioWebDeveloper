@@ -8,6 +8,15 @@
 
 @import url(./normalize.css);
 
+html {
+    font-size: 62.5%;
+    font-family: 'DM Sans', sans-serif;
+}
+
 li {
     list-style: none;
+}
+
+a {
+    text-decoration: none;
 }
