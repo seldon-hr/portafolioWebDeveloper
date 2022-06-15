@@ -1,0 +1,13 @@
+/* This document is the styles base for the page, where to find
+   varibles, or root styles. */
+
+:root {
+
+}
+
+
+@import url(./normalize.css);
+
+li {
+    list-style: none;
+}
